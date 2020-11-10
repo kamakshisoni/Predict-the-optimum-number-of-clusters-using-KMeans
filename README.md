@@ -1,4 +1,4 @@
-# -Predict-the-optimum-number-of-clusters-using-KMeans
+# Predict-the-optimum-number-of-clusters-using-KMeans
 ## The-Sparks-Foundation Task2
 ## GRIPNOV20 Data Science & Business Analyst Task
 Task :  Predict the optimum number of clusters and represent it visually
